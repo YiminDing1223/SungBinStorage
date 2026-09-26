@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "SungBinStorage"
+  navbar:
+    left:
+      - href: index.qmd
+        text: 首页
+      - href: works/index.qmd
+        text: 作品目录
+  sidebar:
+    - title: "示例作品"
+      contents:
+        - works/sample/index.qmd
+        - works/sample/01.qmd
+        - works/sample/02.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    lang: zh-CN

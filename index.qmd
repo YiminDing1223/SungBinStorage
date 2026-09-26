@@ -1,0 +1,19 @@
+---
+title: "SungBinStorage"
+title-block-banner: false
+toc: false
+---
+
+<div class="home-intro">
+
+<p class="home-label">A COLLECTION OF STORIES</p>
+
+<p class="home-subtitle">这是一个储藏室。</p>
+
+<div class="home-rule"></div>
+
+<p>收存关于郑成灿与朴元彬的故事。</p>
+
+<p class="home-link"><a href="works/index.html">进入作品目录　→</a></p>
+
+</div>
