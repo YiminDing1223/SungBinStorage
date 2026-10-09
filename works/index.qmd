@@ -6,6 +6,7 @@ toc: false
 ## 短篇
 
 - [【诚愿】R 圣克莱门特症候群](st-clement/st-clement.qmd)
+- [【诚愿】R 春色误雨供良辰](spring-rain/spring-rain.qmd)
 
 ## 连载ing
 
